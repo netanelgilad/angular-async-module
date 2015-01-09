@@ -22,5 +22,5 @@ angular.asyncModule('secondModule', function(module) {
     });
 });
 </pre>
-As you can see you can define your injectables before the module has been instantiated, or afterwards ofcourse. :)
+As you can see you can define your injectables before the module has been instantiated, or afterwards of course. :)
 Enjoy.
